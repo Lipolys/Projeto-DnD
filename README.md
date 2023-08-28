@@ -3,9 +3,7 @@
 
 
 ## Entendendo o Projeto
-Como estudante de Sistemas de Informação pela Universidade Estadual de Goiás, senti a necessidade de praticar e colocar em prática, em um sistema funcional, aquilo que já havia aprendido durante as aulas. 
-:
-É notório que um projeto como esse não tem fins lucrativos, entretanto, é a ideal união daquilo que estudo com o que gosto de fazer em minhas horas de lazer.
+Como estudante de Sistemas de Informação pela Universidade Estadual de Goiás, senti a necessidade de praticar e colocar em prática, em um sistema funcional, aquilo que já havia aprendido durante as aulas. É notório que um projeto como esse não tem fins lucrativos, entretanto, é a ideal união daquilo que estudo com o que gosto de fazer em minhas horas de lazer.
 A proposta é, aos poucos, levar esse código ao limite do gerenciamento de atributos, truques e magias, possivelmente chegando até o equivalente ao nível 20 dos personagens, levando em consideração somente o livro base de regras
 
 ## Dificuldades encontradas e futuras
